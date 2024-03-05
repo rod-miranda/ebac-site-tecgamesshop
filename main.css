@@ -54,8 +54,7 @@ section .container {
 }
 
 .brands-list img {
-    height: 24px;
-    margin-right: 8px;
+    height: 100px;
 }
 
 .brands-list li {
